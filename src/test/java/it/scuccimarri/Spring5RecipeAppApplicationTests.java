@@ -1,4 +1,4 @@
-package it.scuccimarri.spring5recipeapp;
+package it.scuccimarri;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

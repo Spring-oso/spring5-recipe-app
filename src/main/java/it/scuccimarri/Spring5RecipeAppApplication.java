@@ -1,4 +1,4 @@
-package it.scuccimarri.spring5recipeapp;
+package it.scuccimarri;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
